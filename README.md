@@ -1,6 +1,6 @@
 # Hi I'm **Xavi** 👋
-- Full-time **computer engineering student** 3rd year 🧑‍🎓🎓.
-- Hoping to join an interesting and ambitious project to kickstart my career in the Software world.
+- Full-time **computer engineering student** 3rd year 🧑‍🎓🎓
+- Seeking exciting challenges in software development, where my passion for coding and ambition for growth converge to contribute to exceptional solutions 🚀 
 
 ## **😁 About me**
 
